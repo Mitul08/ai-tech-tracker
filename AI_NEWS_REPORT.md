@@ -21,12 +21,12 @@ Automatically generated from public AI news feeds.
 
 - [1Password launches a way for AI agents to log in on your behalf without seeing your password](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
 - [Canva releases its first image generation model](https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/)
-- [Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise](https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/)
+- [From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ](https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/)
+- [Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell](https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/)
 - [Left alone with nothing to do, AI agents started playing](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
 - [Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’](https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/)
 - [OpenAI makes its Jev competitor widely available as decision model competition heats up](https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/)
+- [OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”](https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/)
 - [OpenAI working on new $30B raise at $1.25T valuation ahead of IPO](https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/)
-- [Spotify’s current AI bet is about being the music service that agents choose](https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/)
-- [Uber puts all 30,000 employees on ChatGPT Work](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
-- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
+- [Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
 
