@@ -1,11 +1,6 @@
 [
   {
     "source": "Google AI",
-    "title": "AI for Societal Impact",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
-  },
-  {
-    "source": "Google AI",
     "title": "Co-creating the future of fashion with Google",
     "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
   },
@@ -36,6 +31,11 @@
   },
   {
     "source": "Google AI",
+    "title": "Our newest AI Quest: Mapping the human brain",
+    "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+  },
+  {
+    "source": "Google AI",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
   },
@@ -56,18 +56,18 @@
   },
   {
     "source": "TechCrunch AI",
-    "title": "Block’s new voice model sounds eerily human",
-    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+    "title": "Anthropic officially files for its public debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. ",
-    "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/"
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/"
   },
   {
     "source": "TechCrunch AI",
@@ -76,18 +76,13 @@
   },
   {
     "source": "TechCrunch AI",
-    "title": "Here are the top AI agents that can live in your text messages ",
-    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/"
-  },
-  {
-    "source": "TechCrunch AI",
-    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-    "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/"
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/"
   },
   {
     "source": "TechCrunch AI",
@@ -98,5 +93,10 @@
     "source": "TechCrunch AI",
     "title": "The hottest AI wearables and gadgets you should know about",
     "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+  },
+  {
+    "source": "TechCrunch AI",
+    "title": "Will AI expose the rickety infrastructure of the internet?",
+    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/"
   }
 ]
