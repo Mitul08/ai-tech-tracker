@@ -1,8 +1,18 @@
 [
   {
     "source": "Google AI",
+    "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+    "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+  },
+  {
+    "source": "Google AI",
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+  },
+  {
+    "source": "Google AI",
+    "title": "Gemini Intelligence: New features, on more devices",
+    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
   },
   {
     "source": "Google AI",
@@ -11,18 +21,13 @@
   },
   {
     "source": "Google AI",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
+    "title": "Google Cloud launches Gemini for healthcare.",
+    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
   },
   {
     "source": "Google AI",
     "title": "Introducing Playground: Create and play custom games",
     "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
-  },
-  {
-    "source": "Google AI",
-    "title": "New experts join Google’s AI & Economy team",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
   },
   {
     "source": "Google AI",
@@ -41,62 +46,57 @@
   },
   {
     "source": "Google AI",
-    "title": "The latest AI news we announced in September 2026",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
-  },
-  {
-    "source": "Google AI",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+    "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+    "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-    "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+    "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+    "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+    "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+    "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Anthropic reportedly plans to move forward with IPO plans",
-    "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/"
+    "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+    "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/"
+    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-    "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
+    "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+    "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-    "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/"
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Otter AI can now follow conversations across 30+ languages",
-    "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/"
+    "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "The race is on to sue Nvidia",
-    "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+    "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/"
   }
 ]
