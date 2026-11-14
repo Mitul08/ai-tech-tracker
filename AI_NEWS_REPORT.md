@@ -19,14 +19,14 @@ Automatically generated from public AI news feeds.
 
 ## TechCrunch AI
 
+- [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
+- [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
 - [Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/)
-- [Google’s latest Search upgrade promises better answers to your most complicated questions](https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/)
-- [Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit](https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/)
-- [Jensen Huang was having a third affair, Reuters reports](https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/)
-- [Jensen Huang’s exit puts Nvidia’s support for open source in question](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/)
+- [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
+- [Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
+- [Israel’s VCs see opportunity for challengers in Nvidia’s turmoil](https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/)
+- [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)
+- [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
 - [Muse can now place calls to US businesses — if you pay](https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/)
-- [Nebius tests the neocloud playbook with $40 billion in planned spending](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/)
-- [Nectar launches an AI agent to automate creator discovery and outreach for brands](https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/)
-- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
-- [United Airlines blocks AI agents from booking flights, citing cybersecurity risks](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/)
+- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 
