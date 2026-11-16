@@ -20,13 +20,13 @@ Automatically generated from public AI news feeds.
 ## TechCrunch AI
 
 - [AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)
+- [Apple launches new app to study how people use AI for health](https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/)
 - [Asian governments react to Nvidia CEO Jensen Huang’s exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)
-- [ChatGPT’s new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)
-- [ElevenLabs’ new app combines meeting note-taking and dictation for teams](https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/)
 - [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/)
-- [Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)
+- [Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market](https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/)
+- [Is bad news for Jensen Huang also bad news for the AI industry?](https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/)
 - [Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)
+- [SNL gathers all the tech tycoons for a lesson in dating and spycraft](https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/)
 - [The AI graveyard: a running list of projects and startups that didn’t make it](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)
-- [The unfolding Jensen Huang scandal: a timeline](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/)
 - [Where was Nvidia’s security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)
 
