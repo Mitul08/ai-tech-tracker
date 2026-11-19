@@ -16,11 +16,6 @@
   },
   {
     "source": "Google AI",
-    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-  },
-  {
-    "source": "Google AI",
     "title": "Google Cloud launches Gemini for healthcare.",
     "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
   },
@@ -41,6 +36,11 @@
   },
   {
     "source": "Google AI",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+  },
+  {
+    "source": "Google AI",
     "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
     "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
   },
@@ -51,52 +51,52 @@
   },
   {
     "source": "TechCrunch AI",
-    "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-    "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Google joins the tech outage trend by announcing it’s not having one",
-    "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/"
+    "title": "Anthropic prices IPO at $83 a share, above projected range",
+    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+    "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+    "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Model ML raises $250M to automate investment banking grunt work",
-    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/"
+    "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+    "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Nvidia promises that revenue will keep soaring — for now",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/"
+    "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+    "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/"
+    "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-    "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/"
+    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-    "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+    "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+    "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "SEC reportedly investigating Nvidia amid Huang exit",
-    "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/"
   }
 ]
