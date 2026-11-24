@@ -1,6 +1,11 @@
 [
   {
     "source": "Google AI",
+    "title": "A more tailored Google Search that’s uniquely yours",
+    "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+  },
+  {
+    "source": "Google AI",
     "title": "Experience the art and legacy of Dr. Esther Mahlangu",
     "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
   },
@@ -8,11 +13,6 @@
     "source": "Google AI",
     "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-  },
-  {
-    "source": "Google AI",
-    "title": "Gemini Intelligence: New features, on more devices",
-    "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
   },
   {
     "source": "Google AI",
@@ -51,52 +51,52 @@
   },
   {
     "source": "TechCrunch AI",
-    "title": "A tale of two Nvidias",
-    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+    "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+    "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Chips can survive the space environment — can their financing?",
-    "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/"
+    "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+    "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-    "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/"
+    "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+    "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Here are the top AI agents that can live in your text messages ",
-    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+    "title": "Jensen Huang isn’t out of the woods yet",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-    "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/"
+    "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+    "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-    "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/"
+    "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+    "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-    "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+    "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-    "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+    "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
   },
   {
     "source": "TechCrunch AI",
-    "title": "Why data centers are at the center of the Big Tech backlash",
-    "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+    "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/"
   }
 ]
