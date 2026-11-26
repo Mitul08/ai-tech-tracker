@@ -19,14 +19,14 @@ Automatically generated from public AI news feeds.
 
 ## TechCrunch AI
 
-- [Anthropic shares fall below IPO price, a worrying sign for AI startups](https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/)
-- [Even the best AI agents struggle with everyday life](https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/)
-- [In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)
-- [Jensen Huang still thinks a succession plan creates unnecessary hierarchy](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)
-- [Maple raises $5.3M to build AI products that protect your data, even from itself](https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/)
-- [Meta brings its Muse AI assistant directly into Instagram DMs](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)
-- [Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)
-- [UK warns AI-driven cyberattacks are exposing years of weak security](https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/)
-- [Walmart teams up with Meta to bring Black Friday deals to AI agent Muse](https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/)
+- [AI data centers are becoming harder to build, and neoclouds are feeling it](https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/)
+- [Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/)
+- [Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)
+- [Character.AI’s plan to auction off users’ private chats challenged by state AGs](https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/)
+- [Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/)
+- [OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/)
+- [S&P considers Nvidia credit downgrade over governance and ‘key man’ risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)
+- [The questions Jensen Huang and Nvidia will still have to answer about Megaspeed](https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/)
+- [Want to buy your kid an AI toy this Christmas? Not in New York](https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/)
 - [Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion](https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/)
 
